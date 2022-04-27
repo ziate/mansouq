@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651118786007",
+    "project_id": "delverymanadam",
+    "storage_bucket": "delverymanadam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651118786007:android:4c0f9bbd77f542e3884792",
+        "android_client_info": {
+          "package_name": "souqadam.delv.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651118786007-bitogqdb7avv7qb9fivmb92mjlntcpo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ijwYJprIoiZ1Gb4uxWH1V-2adckjhpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651118786007-bitogqdb7avv7qb9fivmb92mjlntcpo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
